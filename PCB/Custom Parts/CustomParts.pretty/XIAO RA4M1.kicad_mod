@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at -5.825 -13.635 0)
 		(layer "F.SilkS")
-		(uuid "a9cdf02d-d1cf-4eb9-a2cf-231545eaf5c7")
+		(uuid "174b18ec-c577-483d-8c87-03f52320561d")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "XIAO RA4M1"
 		(at 1.16 11.365 0)
 		(layer "F.Fab")
-		(uuid "f9b296f9-47fd-4d12-b24e-440d6549a6b8")
+		(uuid "d1f69937-361e-41d5-a51a-93a0ac65796f")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "63b405df-d2c9-42f2-a66e-b81f43e2b13c")
+		(uuid "f734c17b-be16-4aa6-b252-b5382fb1c708")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -41,7 +41,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "71e76393-a862-4fd2-8280-77e418e02c65")
+		(uuid "e47de4ef-5ca5-4540-9597-c327317ab63b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1060,12 +1060,10 @@
 		(layer "F.Fab")
 		(uuid "853e5fec-df2c-42f9-adaf-a46a786ae3ed")
 	)
-	(pad "1" thru_hole custom
+	(pad "1" smd custom
 		(at -7.62 -7.62)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1103,12 +1101,10 @@
 		)
 		(uuid "8346369f-d06a-4904-8250-0d42b030aac9")
 	)
-	(pad "2" thru_hole custom
+	(pad "2" smd custom
 		(at -7.62 -5.08)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1146,12 +1142,10 @@
 		)
 		(uuid "6ee33efb-82e5-4522-99ca-4f120dc31e24")
 	)
-	(pad "3" thru_hole custom
+	(pad "3" smd custom
 		(at -7.62 -2.54)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1189,12 +1183,10 @@
 		)
 		(uuid "e90743db-52db-4c24-bb1e-c0cc07d73391")
 	)
-	(pad "4" thru_hole custom
+	(pad "4" smd custom
 		(at -7.62 0)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1232,12 +1224,10 @@
 		)
 		(uuid "f0d637aa-84f2-4fb3-b797-dfb540bcfc24")
 	)
-	(pad "5" thru_hole custom
+	(pad "5" smd custom
 		(at -7.62 2.54)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1275,12 +1265,10 @@
 		)
 		(uuid "78512992-a180-4adf-9d29-c0a36fe4f997")
 	)
-	(pad "6" thru_hole custom
+	(pad "6" smd custom
 		(at -7.62 5.08)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1318,12 +1306,10 @@
 		)
 		(uuid "3726681e-9b51-4270-a5f1-c11ecf3bae22")
 	)
-	(pad "7" thru_hole custom
+	(pad "7" smd custom
 		(at -7.62 7.62)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1361,12 +1347,10 @@
 		)
 		(uuid "33beb4ba-e533-46ea-890b-ca258f192ec8")
 	)
-	(pad "8" thru_hole custom
+	(pad "8" smd custom
 		(at 7.62 7.62)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1404,12 +1388,10 @@
 		)
 		(uuid "c7179213-c125-4188-bb15-e031bddb5887")
 	)
-	(pad "9" thru_hole custom
+	(pad "9" smd custom
 		(at 7.62 5.08)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1447,12 +1429,10 @@
 		)
 		(uuid "88719b1d-f606-4ffb-8dfc-aaf73a37f3b2")
 	)
-	(pad "10" thru_hole custom
+	(pad "10" smd custom
 		(at 7.62 2.54)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1490,12 +1470,10 @@
 		)
 		(uuid "f3f54379-b33c-4eee-b0d0-15767de06d28")
 	)
-	(pad "11" thru_hole custom
+	(pad "11" smd custom
 		(at 7.62 0)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1533,12 +1511,10 @@
 		)
 		(uuid "c2eb603d-5d16-40ce-91f3-026bf0d3726c")
 	)
-	(pad "12" thru_hole custom
+	(pad "12" smd custom
 		(at 7.62 -2.54)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1576,12 +1552,10 @@
 		)
 		(uuid "48600bac-f8a7-4929-873f-8fee509134e9")
 	)
-	(pad "13" thru_hole custom
+	(pad "13" smd custom
 		(at 7.62 -5.08)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1619,12 +1593,10 @@
 		)
 		(uuid "73abe59d-5f5d-48d5-8b25-f353480fc1e5")
 	)
-	(pad "14" thru_hole custom
+	(pad "14" smd custom
 		(at 7.62 -7.62)
 		(size 1.524 1.524)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1662,12 +1634,10 @@
 		)
 		(uuid "192a41ea-98d0-4f9f-9855-0e824c65b6f1")
 	)
-	(pad "15" thru_hole custom
+	(pad "15" smd custom
 		(at 5.001 -3.81)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1705,12 +1675,10 @@
 		)
 		(uuid "dbd589e5-b2c2-4488-8751-ebfd15d8891a")
 	)
-	(pad "16" thru_hole custom
+	(pad "16" smd custom
 		(at 5.001 -1.27)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1748,12 +1716,10 @@
 		)
 		(uuid "1de6fc91-4dda-4132-9dcc-c22df02d3869")
 	)
-	(pad "17" thru_hole custom
+	(pad "17" smd custom
 		(at 5.001 1.27)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1791,12 +1757,10 @@
 		)
 		(uuid "3d0cd61d-9dd8-4ae6-90dd-752d5e34b999")
 	)
-	(pad "18" thru_hole custom
+	(pad "18" smd custom
 		(at 5.001 3.81)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1834,12 +1798,10 @@
 		)
 		(uuid "8ad70468-e372-49d1-aa3f-222d5bdb7638")
 	)
-	(pad "19" thru_hole custom
+	(pad "19" smd custom
 		(at -5.159 3.81)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1878,12 +1840,10 @@
 		)
 		(uuid "369007ed-96dd-48fe-ae54-ff8b12f5eda8")
 	)
-	(pad "20" thru_hole custom
+	(pad "20" smd custom
 		(at -5.159 1.27)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1922,12 +1882,10 @@
 		)
 		(uuid "8ba5a93a-45fb-42e0-8d2d-02b0548e8907")
 	)
-	(pad "21" thru_hole custom
+	(pad "21" smd custom
 		(at -5.159 -1.27)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
@@ -1966,12 +1924,10 @@
 		)
 		(uuid "b70c2109-df05-444b-929c-311f2fbcf71b")
 	)
-	(pad "22" thru_hole custom
+	(pad "22" smd custom
 		(at -5.159 -3.81)
 		(size 1.6 1.6)
-		(drill 0.889)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(thermal_bridge_angle 90)
 		(options
