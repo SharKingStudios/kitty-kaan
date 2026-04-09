@@ -1,11 +1,9 @@
 Qty,Item,URL,Unit Price (USD),Total (USD),Notes
 1,Adafruit MiniBoost 5V @ 1A - TPS61023,adafruit.com/product/4654,3.95,3.95,
 1,9g Servo Set,amazon.com/Control-Raspberry-Helicopter-Airplane-Controls/dp/B0DFL7QZRJ,6.99,6.99,for 4x 9g servos
-1,Seeed XIAO RA4M1,amazon.com/Compatible-Arduino-Renesas-Tolerant-Ultra-Compact/dp/B0DF9VJDJ7,9.9,9.9,
-1,JST Battery Connector,,0.0,0.0,Whatever matches your battery.
-1,Some Battery,,0.0,0.0,Pick your favorite
+1,Seeed XIAO RA4M1,amazon.com/Compatible-Arduino-Renesas-Tolerant-Ultra-Compact/dp/B0DF9VJDJ7,9.90,9.90,
+1,JST Battery Connector,,0.00,0.00,Whatever matches your battery.
+1,Some Battery,,0.00,0.00,Pick your favorite
 1,MPU-6050 IMU,amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ,6.99,6.99,
-,,,,,
-1,PCB+Shipping,JLCPCB,15.0,15.0,
-,,,,,
-,"Total",,,,42.83,
+1,PCB+Shipping,JLCPCB,15.00,15.00,
+,Total,,,42.83,
